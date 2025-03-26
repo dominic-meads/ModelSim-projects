@@ -2,3 +2,8 @@
 /Ram/*.mpf
 /Ram/*.wlf
 /Ram/work
+
+/Shift Register/*.cr.mti
+/Shift Register/*.mpf
+/Shift Register/*.wlf
+/Shift Register/work
