@@ -7,3 +7,8 @@
 /Shift Register/*.mpf
 /Shift Register/*.wlf
 /Shift Register/work
+
+/Button Sequence Detect/*.cr.mti
+/Button Sequence Detect/work
+/Button Sequence Detect/*.mpf
+/Button Sequence Detect/*.wlf
