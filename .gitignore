@@ -12,3 +12,13 @@
 /Button Sequence Detect/work
 /Button Sequence Detect/*.mpf
 /Button Sequence Detect/*.wlf
+
+/clog2_test/*.mpf
+/clog2_test/*.wlf
+/clog2_test/*.cr.mti
+/clog2_test/work
+
+/button_switch_debounce/*.cr.mti
+/button_switch_debounce/*.mpf
+/button_switch_debounce/*.wlf
+/button_switch_debounce/work
